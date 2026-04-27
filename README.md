@@ -495,4 +495,5 @@ MIT License - See LICENSE file for details
 
 *Let's make payments intelligent.* 🚀
 #   P a y G e n t i c - A I - A u t o n o m o u s - P a y m e n t - A g e n t  
+ #   P a y G e n t i c - A I - A u t o n o m o u s - P a y m e n t - A g e n t  
  
